@@ -266,3 +266,5 @@ FUNCTION CheckCollision(DragActor, NewLocation):
 # Conclusion
 
 Thanks to this complex system, we are able to grant an ability that allows the player to attach themselves to an object and drag it alongside the level, checking for collisions and updating the input movement to match the object's movement, while ignoring any changes caused by the original input system.
+
+Note: At the moment of writing this, the animations for the ability haven´t been completed. They wil be completed soon by it´s corresponding departament, and added into the logic of the system.
